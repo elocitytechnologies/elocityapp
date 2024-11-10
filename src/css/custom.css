@@ -1,0 +1,335 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+
+:root {
+  --ifm-color-primary: #05ce78;
+  --ifm-color-primary-dark: #05b96c;
+  --ifm-color-primary-darker: #04af66;
+  --ifm-color-primary-darkest: #049054;
+  --ifm-color-primary-light: #06e384;
+  --ifm-color-primary-lighter: #06ed8a;
+  --ifm-color-primary-lightest: #19f999;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #05ce78;
+  --ifm-color-primary-dark: #05b96c;
+  --ifm-color-primary-darker: #04af66;
+  --ifm-color-primary-darkest: #049054;
+  --ifm-color-primary-light: #06e384;
+  --ifm-color-primary-lighter: #06ed8a;
+  --ifm-color-primary-lightest: #19f999;
+  
+  /* Style the breadcrumb container */
+
+.breadcrumbs {
+  background-color: #f4f4f9;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 0.9rem;
+}
+
+/* Style each breadcrumb item */
+.breadcrumbs__item {
+    color: #333;
+  font-weight: 500;
+}
+
+/* Style each breadcrumb link */
+.breadcrumbs__link {
+  color: black; /* Link color */
+  text-decoration: none;
+  font-weight: bold;
+  }
+
+.breadcrumbs__link:active {
+  color: #05CE78 !important; /* Active breadcrumb link color (green) */
+  font-weight: bold !important; /* Optional: Make it bold */
+  background-color: rgba(5, 206, 120, 0.2) !important; /* Optional: Light green background */
+}
+
+/* Hover effect for breadcrumb links */
+.breadcrumbs__link:hover {
+  color: #05CE78;
+  
+}
+
+/* Add custom separator */
+.breadcrumbs__separator {
+  margin: 1 5px;
+  color: black;
+}
+}
+
+
+
+/* Custom CSS for Fonts and Styles */
+
+/* Set Montserrat font for all headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: Poppins, sans-serif;
+}
+
+/* Set Open Sans font for all body text */
+body {
+  font-family: Poppins, 'Open Sans Medium', sans-serif;
+ 
+}
+
+/* Set H1 color to navy and font size to 28px */
+h1 {
+  color: #05CE78;
+  font-size: 24px;
+}
+
+/* Set H2 font size to 20px */
+h2 {
+  font-size: 20px;
+}
+
+/* Set H3 font size to 16px */
+h3 {
+  font-size: 16px;
+}
+
+body {
+  font-size: 14px; /* You can adjust the size as needed */
+}
+
+/* Dark mode heading color */
+[data-theme='dark'] h1,
+ {
+  color: #05ce78; /* White text for headings in dark mode */
+}
+
+
+a {
+   /* text-decoration: none;  Removes underline from links */
+    color: 05ce78; /* Default link color */
+  /* transition: color 0.3s ease;  Smooth transition for color change */
+
+  transition: text-shadow 0.3s ease; /* Smooth transition for glow effect */
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+/* Dark mode link color */
+[data-theme='dark'] a {
+  color: #05ce78; /* green link color for dark mode */
+}
+
+
+/* Custom CSS for Image Zoom Effect */
+
+/* Apply zoom effect to all images when clicked */
+
+img {
+  cursor: zoom-in; /* Show zoom-in cursor */
+  transition: transform 0.5s ease; /* Smooth transition effect for scaling */
+  position: relative; /* Allows z-index to work */
+  z-index: 1; /* Base z-index for all images */
+}
+
+
+/* Zoom effect on click */
+img:active {
+  transform: scale(1.5); /* Zoom in the image on click */
+  cursor: zoom-out; /* Change cursor to zoom-out */
+  z-index: 1000; /* Bring zoomed image above all other elements */
+  }
+
+.footer {
+  background-color: #708090; /* Replace with your desired color */
+}
+
+/* Colored Blocks */
+.custom-block-blue {
+  background-color: #f0f8ff;
+  border-left: 4px solid #000000;
+  padding: 1em;
+  border-radius: 5px;
+  margin: 1em 0;
+}
+
+.custom-block-peach {
+  background-color: #FFDAB9;
+  border-left: 4px solid #000000;
+  padding: 1em;
+  border-radius: 5px;
+  margin: 1em 0;
+}
+
+.custom-block-green {
+  background-color: #D0F0C0;
+  border-left: 4px solid #000000;
+  padding: 1em;
+  border-radius: 5px;
+  margin: 1em 0;
+}
+
+/* Custom blocks for the dark theme */
+
+/* Custom block for dark theme */
+:root[data-theme='dark'] .custom-block-blue {
+  background-color: #f0f8ff; /* Same light blue background */
+  border-left: 4px solid #000000; /* Black border */
+  color: #000000; /* Black text */
+}
+
+:root[data-theme='dark'] .custom-block-peach {
+  background-color: #FFDAB9; /* Same light peach background */
+  border-left: 4px solid #000000; /* Black border */
+  color: #000000; /* Black text */
+}
+
+:root[data-theme='dark'] .custom-block-green {
+  background-color: ##D0F0C0; /* Same light green background */
+  border-left: 4px solid #000000; /* Black border */
+  color: #000000; /* Black text */
+}
+
+
+/* Text colors */
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+/* Default link style */
+.navbar__link {
+  background-color: #E6E6E6;
+  color: black !important;
+  border: 1px;
+  border-radius: 35px;
+  padding: 5px 10px;
+   margin-right: 7px;
+}
+
+.navbar .button--primary {
+  background-color: #05ce78; /* Custom background color */
+  color: white !important; /* Text color */
+  border: none; /* Optional: remove border */
+  border-radius: 35px; /* Optional: rounded corners */
+  padding: 5px 10px; /* Optional: padding for better appearance */
+  
+}
+
+/* When a menu item is active, make it look like a button */
+.navbar__link--active {
+  background-color: #05ce78;
+  color: white !important;
+  border: 1px;
+  border-radius: 35px;
+  padding: 5px 10px;
+}
+
+.nav__link:last-child {
+  margin-right: 0;
+}
+
+
+
+/* Make sidebar links bold */
+.menu__link {
+  font-weight: bold;
+}
+
+
+.DocSearch-Button-Placeholder {
+  font-family: Poppins, sans-serif; /* Replace with your desired font */
+}
+
+/* Set background image for the homepage */
+
+.hero {
+    background-image: url('DocumentationCover.webp'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 32vh; /* Adjust the height as needed */
+}	
+
+.hero .button {
+    background-color: #183F7C;  /* Change the background color */
+    color: white;  /* Change the text color */
+    border-radius: 25px;  /* Make the button rounded */
+    padding: 10px 20px;  /* Adjust padding */
+    font-size: 16px;  /* Adjust font size */
+    text-transform: uppercase;  /* Make text uppercase */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  /* Add shadow effect */
+    transition: background-color 0.3s ease;  /* Add a hover transition */
+	text-transform: none;  /* Prevents capitalization */
+}
+
+.hero .button:hover {
+    background-color: #183F7C;  /* Change background color on hover */
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.25);  /* Increase shadow on hover */
+}
+
+/* Title color for both light and dark modes */
+html .hero__title {
+     font-size: 32px; /* Title size */
+	color: #000000 !important; /* Force the title color to remain black */
+}
+
+.hero__subtitle {
+    color: #334253; /* Replace with your desired description color */
+	font-size: 19px; /* Title size */
+}
+
+.title {
+  font-size: 19px;
+}
+
+.description {
+  font-size: 16px;
+}
+
+
+
+/* Style the breadcrumb container */
+.breadcrumbs {
+  background-color: #f4f4f9;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 0.9rem;
+}
+
+/* Style each breadcrumb item */
+.breadcrumbs__item {
+    color: #333;
+  font-weight: 500;
+}
+
+/* Style each breadcrumb link */
+.breadcrumbs__link {
+  color: black; /* Link color */
+  text-decoration: none;
+  font-weight: bold;
+  }
+
+/* Hover effect for breadcrumb links */
+.breadcrumbs__link:hover {
+  color: #05CE78;
+}
+
+/* Add custom separator */
+.breadcrumbs__separator {
+  margin: 1 5px;
+  color: black;
+}

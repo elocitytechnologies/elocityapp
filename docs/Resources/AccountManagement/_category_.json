@@ -1,0 +1,8 @@
+{
+  "label": "Account Management",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Apiculus Account Management API can be used to perform account-level actions."
+  }
+}
