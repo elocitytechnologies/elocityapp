@@ -8,19 +8,19 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Elocity Documentation',
-  tagline: 'Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.',
+  title: 'HIEV Mobile App',
+  tagline: '',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.hiev.ca',
+  url: 'https://help.hiev.ca',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Apiculus', // Usually your GitHub org/user name.
+  organizationName: 'Elocity', // Usually your GitHub org/user name.
   projectName: 'Technical Documentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -111,7 +111,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 	  
     },
       // Replace with your project's social card
-      image: 'img/apiculus-social-card.png',
+      image: 'img/elocity-social-card.png',
       navbar: {
         title: '',
 		// hideOnScroll: true,
@@ -125,7 +125,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             type: 'docSidebar',
             sidebarId: 'sidebar1',
             position: 'left',
-            label: 'Admin Guide',
+            label: 'User Guide',
 			position: "left",
           },
 	 
@@ -148,7 +148,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             type: 'docSidebar',
             sidebarId: 'sidebar4',
             position: 'left',
-            label: 'ReleaseNotes',
+            label: 'Release Notes',
           },
 		  
 	/*	  Here is how you create a drop-down
@@ -164,14 +164,14 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             {
               label: 'Global APIs',
               href: 'https://swagger.apiculus.io',
-            },
+            },	
           ],
         },
 		   */
 		  
 		  {
           href: 'https://hiev.ca', // Change to the desired link
-          label: 'Go to Hiev', // The label of your button
+          label: 'Download App', // The label of your button
           position: 'right',
           className: 'button button--primary', // Add button classes here
         },

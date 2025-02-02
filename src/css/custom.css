@@ -281,6 +281,8 @@ img:active {
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.25);  /* Increase shadow on hover */
 }
 
+
+
 /* Title color for both light and dark modes */
 html .hero__title {
      font-size: 32px; /* Title size */
@@ -332,4 +334,9 @@ html .hero__title {
 .breadcrumbs__separator {
   margin: 1 5px;
   color: black;
+}
+
+.button--2g {
+    background-color: #05ce78 !important; /* Use !important if necessary to override inline or default styles */
+    color: white;
 }
