@@ -5,14 +5,14 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: (
-	<a href="/docs/AdminGuide/intro" target="_self" rel="noopener noreferrer">
-<div className="title">Admin Guide</div>
+	<a href="/docs/UserGuide/intro" target="_self" rel="noopener noreferrer">
+<div className="title">User Guide</div>
 	</a>
 	),
     Svg: require('@site/static/img/sps.svg').default,	
     description: (
     <div className="description">  <>
-        <a href="/docs/AdminGuide/intro" target="_self" rel="noopener noreferrer">
+        <a href="/docs/UserGuide/intro" target="_self" rel="noopener noreferrer">
           Click here
         </a> to read the documents that offer guidance on platform setup, user management, billing, customer support, etc.</>
 	</div>
