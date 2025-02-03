@@ -159,7 +159,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
           items: [
             {
               label: 'Data Sheets',
-             to: '/docs/APIs/apioverview',
+             to: '/docs/UserGuide/GettingStarted/Download',
             },
             {
               label: 'Global APIs',
@@ -170,7 +170,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 		   */
 		  
 		  {
-          href: 'https://hiev.ca', // Change to the desired link
+          to: '/docs/UserGuide/GettingStarted/Download', // Change to the desired link
           label: 'Download App', // The label of your button
           position: 'right',
           className: 'button button--primary', // Add button classes here

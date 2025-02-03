@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 8
 ---
-# Adding Money to Wallet
+# Managing Wallet
 
 Before charging your EV, make sure you have sufficient balance in your mobile app wallet.
 1. Tap the **Menu** button on the home screen.

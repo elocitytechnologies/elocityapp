@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Downloading Mobile App
+# Download
 
 You can download the Elocity HIEV Canada mobile app from Apple App Store and Google Play Store.
 Search for HIEV Canada and install the app.

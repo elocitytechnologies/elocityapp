@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 9
 ---
-# Using Map
+# Reaching Out To Support
 
 This is your home screen. You will be able to identify all the charging locations near you. The
 cards at the bottom of the screen give you a quick and the most important information about a

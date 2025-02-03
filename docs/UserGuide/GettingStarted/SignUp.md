@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
-# Creating Account
+# Sign Up
 
 If you are a first time user, you can easily create an account by filling your personal details in the text field
 provided.
