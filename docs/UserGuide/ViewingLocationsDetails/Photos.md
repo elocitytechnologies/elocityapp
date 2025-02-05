@@ -3,4 +3,10 @@ sidebar_position: 2
 ---
 # Photos
 
-The **HIEV Canada** mobile app by Elocity is your all-in-one solution for smart EV charging across Canada. Whether you're an EV owner looking for reliable charging stations or a business managing multiple chargers, HIEV Canada offers seamless access to real-time station availability, remote monitoring, and secure payments. With intuitive features designed for convenience, the app helps you optimize charging, reduce costs, and enhance your EV experience. Stay connected, stay charged—download **HIEV Canada** and power your journey effortlessly!
+The **Photos** screen under **Viewing Location Details** in the **HIEV Canada** mobile app allows users to view images of the charging station and its surroundings. These images help users identify the station’s exact location, available charging points, and nearby facilities. This feature enhances the user experience by providing visual context before arriving at the location.
+
+To navigate to the Photos screen, tap on the cards/buttons marked with arrows/numbers.
+
+|           1            |           2            |           3            |
+| :--------------------: | :--------------------: | :--------------------: |
+| ![Overview](img/1.jpg) | ![Overview](img/2.jpg) | ![Overview](img/4.jpg) |

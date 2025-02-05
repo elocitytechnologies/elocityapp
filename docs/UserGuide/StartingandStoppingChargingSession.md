@@ -9,3 +9,7 @@ sidebar_position: 4
 5. Once your session ends, you will see your charge session and payment details. Tap on the **Continue** button.
 6. Tap the **Make Payment** button to pay for your charge session.
 7. After you have paid for you charge session, don’t forget to rate your experience and provide your comments.
+
+|            1            |                 2                  |
+| :---------------------: | :--------------------------------: |
+| ![Overview](img/QR.png) | ![Overview](img/StartCharging.png) |

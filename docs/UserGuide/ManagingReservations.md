@@ -3,4 +3,20 @@ sidebar_position: 7
 ---
 # Managing Reservations
 
-The **HIEV Canada** mobile app by Elocity is your all-in-one solution for smart EV charging across Canada. Whether you're an EV owner looking for reliable charging stations or a business managing multiple chargers, HIEV Canada offers seamless access to real-time station availability, remote monitoring, and secure payments. With intuitive features designed for convenience, the app helps you optimize charging, reduce costs, and enhance your EV experience. Stay connected, stay charged—download **HIEV Canada** and power your journey effortlessly!
+The **Reservations** section in the **HIEV Canada** mobile app allows you to view your upcoming and past charging station reservations. You can check the status of upcoming reservations, including the reserved time and location.
+## Viewing Reservations
+To view your upcoming and past reservations, tap on the cards/buttons marked with arrows/numbers.
+
+|             1             |             2             |             3             |
+| :-----------------------: | :-----------------------: | :-----------------------: |
+| ![Overview](img/Res1.jpg) | ![Overview](img/Res2.jpg) | ![Overview](img/Res3.jpg) |
+## Making Reservations
+To make reservations, tap on the cards/buttons marked with arrows/numbers.
+
+| 1. Search and tap on the location card. | 2. Tap on the reservations icon. | 3. Tap on the connector button. |
+| :-------------------------------------- | :------------------------------- | :------------------------------ |
+| ![Overview](img/MRes1.jpg)              | ![Overview](img/MRes2.jpg)       | ![Overview](img/MRes3.jpg)      |
+
+| 4. Select a charging station. | 5. Select the date and time duration. | 6. Review your details and tap on the Confirm button. |
+| :---------------------------- | :------------------------------------ | :---------------------------------------------------- |
+| ![Overview](img/MRes4.jpg)    | ![Overview](img/MRes5.jpg)            | ![Overview](img/MRes6.jpg)                            |
