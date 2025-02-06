@@ -10,6 +10,10 @@ sidebar_position: 4
 6. Tap the **Make Payment** button to pay for your charge session.
 7. After you have paid for you charge session, don’t forget to rate your experience and provide your comments.
 
-|            1            |                 2                  |
-| :---------------------: | :--------------------------------: |
-| ![Overview](img/QR.png) | ![Overview](img/StartCharging.png) |
+|            1            |              2              |                 3                  |
+| :---------------------: | :-------------------------: | :--------------------------------: |
+| ![Overview](img/QR.png) | ![Overview](img/ScanQR.jpg) | ![Overview](img/StartCharging.png) |
+
+|              4               |              5               |              6               |
+| :--------------------------: | :--------------------------: | :--------------------------: |
+| ![Overview](img/Charge9.png) | ![Overview](img/Charge6.png) | ![Overview](img/Charge7.png) |

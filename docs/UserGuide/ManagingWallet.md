@@ -9,3 +9,11 @@ Before charging your EV, make sure you have sufficient balance in your mobile ap
 3. Tap on the **Add Money** button.
 4. Select the amount to add or enter the amount manually. Then, tap on the **Add** button.
 5. Add your payment information. Then, tap on the **Continue** button.
+
+|             1             |              2               |              3               |
+| :-----------------------: | :--------------------------: | :--------------------------: |
+| ![Overview](img/Menu.png) | ![Overview](img/Wallet1.jpg) | ![Overview](img/Wallet2.jpg) |
+
+|              4               |              5               |
+| :--------------------------: | :--------------------------: | 
+| ![Overview](img/Wallet3.jpg) | ![Overview](img/Wallet4.jpg) | 
