@@ -1,8 +1,0 @@
-{
-  "label": "Viewing Locations Details",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "In the HIEV Canada mobile app, the Viewing Location Details feature provides users with essential information about charging station locations. Users can access details such as station availability, connector types, charging speed, pricing, and real-time status updates. The app also includes navigation options to help users find the selected charging station easily."
-  }
-}

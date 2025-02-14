@@ -1,0 +1,8 @@
+{
+  "label": "Managing Reservations",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "The Reservations section allows you to view your upcoming and past charging station reservations. You can check the status of upcoming reservations, including the reserved time and location."
+  }
+}

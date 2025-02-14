@@ -1,0 +1,8 @@
+{
+  "label": "Viewing Location Details",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "The screen that opens upon launch, shows the nearest charging station and associated details. You can search your desired charging station, and assess whether the station meets your charging needs before navigating to it. The Location Details screen comprises the following sections."
+  }
+}

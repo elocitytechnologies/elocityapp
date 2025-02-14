@@ -170,8 +170,15 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 		   */
 		  
 		  {
-          to: '/docs/UserGuide/GettingStarted/Download', // Change to the desired link
-          label: 'Download App', // The label of your button
+          to: '/docs/UserGuide/iOS/DownloadingApp', // Change to the desired link
+          label: 'Download iOS App', // The label of your button
+          position: 'right',
+          className: 'button button--primary', // Add button classes here
+        },
+		
+		 {
+          to: '/docs/UserGuide/Android/DownloadingApp', // Change to the desired link
+          label: 'Download Android App', // The label of your button
           position: 'right',
           className: 'button button--primary', // Add button classes here
         },
