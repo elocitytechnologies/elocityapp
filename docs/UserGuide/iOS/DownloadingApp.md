@@ -5,6 +5,7 @@ sidebar_position: 1
 To download the **HIEV Canada** mobile app, scan the following QR code using your phone:
 
 ![iOS App](img/iOS_QR.png)
+
 Alternatively, follow these steps to download and install the app.
 
 1. Open the **App Store** on your device.

@@ -1,7 +1,6 @@
 ---
 sidebar_position: 2
 ---
-
 # Making Reservations
 To make reservations, follow these steps:
 1. Search and tap on the location card.

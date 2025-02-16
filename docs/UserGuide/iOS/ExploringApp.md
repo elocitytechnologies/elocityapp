@@ -1,8 +1,10 @@
 ---
 sidebar_position: 4
 ---
-# Exploring
-You can explore the **HIEV Canada** mobile app without creating an account. As a guest user, you can navigate through the app and access key features to get an overview of its functionality. ![Guest User](img/Guest.png)
+# Exploring App
+You can explore the **HIEV Canada** mobile app without creating an account. 
+
+Tap on the **Guest User** button to navigate through the app and get an overview of its functionality. ![Guest User](img/Guest.png)
 ### What You Can Do as a Guest
 
 - **Browse Charging Stations** – View nearby charging stations and check availability.
