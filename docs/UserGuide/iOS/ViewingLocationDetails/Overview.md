@@ -18,7 +18,13 @@ Additionally, you can perform the following tasks:
 - Mark the location as a favorite.
 
 To navigate to the Overview screen, follow these steps:
+1. Tap on the location card.
 
-| 1. Tap on the location card. | 2. Tap on the details card. |  3. Tap on Overview.   |
-| :--------------------------: | :-------------------------: | :--------------------: |
-|    ![Overview](img/1.jpg)    |   ![Overview](img/2.jpg)    | ![Overview](img/3.jpg) |
+![Overview](img/1.jpg)
+2. Tap on the details card.
+
+![Overview](img/2.jpg)
+3. Tap on the **Overview** button.
+
+![Overview](img/3.jpg)
+

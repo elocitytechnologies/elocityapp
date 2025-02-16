@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/UserGuide/iOS/StartingandStoppingChargingSession.md",
+                "file": "docs/UserGuide/iOS/ViewingLocationDetails/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "StartingandStoppingChargingSession"
+              "title": "Overview"
             }
           }
         ]
@@ -166,6 +166,10 @@
   },
   "active": "40da5c75ee3060bd",
   "lastOpenFiles": [
+    "docs/UserGuide/iOS/ViewingLocationDetails/Photos.md",
+    "docs/UserGuide/iOS/ViewingLocationDetails/Overview.md",
+    "docs/UserGuide/iOS/StartingandStoppingChargingSession.md",
+    "docs/UserGuide/iOS/SigningIn.md",
     "build/search-index.json",
     "build/sitemap.xml",
     "build/index.html",
@@ -178,7 +182,6 @@
     "build/docs/ReleaseNotes/intro/index.html",
     "build/docs/ReleaseNotes/Ver2400/index.html",
     "build/docs/Resources/Datasheets/index.html",
-    "build/docs/category/viewing-location-details-1/index.html",
     "build/img/undraw_docusaurus_mountain.svg",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
@@ -187,8 +190,6 @@
     "build/img/sbs.png",
     "build/img/sbs.svg",
     "build/img/logo.png",
-    "docs/UserGuide/iOS/SigningIn.md",
-    "docs/UserGuide/iOS/StartingandStoppingChargingSession.md",
     "docs/UserGuide/iOS/ExploringApp.md",
     "docs/UserGuide/iOS/DownloadingApp.md",
     "docs/UserGuide/iOS/ManagingReservations/MakingReservations.md",
@@ -211,7 +212,6 @@
     "docs/UserGuide/Android/ManagingWallet.md",
     "docs/UserGuide/Android/ViewingTransactionsandInvoices.md",
     "docs/UserGuide/iOS/ViewingTransactionsandInvoices.md",
-    "docs/UserGuide/iOS/ManagingSettings.md",
     "Untitled.canvas"
   ]
 }
