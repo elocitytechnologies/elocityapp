@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/UserGuide/iOS/ViewingLocationDetails/Overview.md",
+                "file": "docs/UserGuide/iOS/ViewingLocationDetails/Photos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Photos"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "40da5c75ee3060bd",
   "lastOpenFiles": [
-    "docs/UserGuide/iOS/ViewingLocationDetails/Photos.md",
     "docs/UserGuide/iOS/ViewingLocationDetails/Overview.md",
+    "docs/UserGuide/iOS/ViewingLocationDetails/Photos.md",
     "docs/UserGuide/iOS/StartingandStoppingChargingSession.md",
     "docs/UserGuide/iOS/SigningIn.md",
     "build/search-index.json",
