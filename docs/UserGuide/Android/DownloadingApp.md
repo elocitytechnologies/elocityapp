@@ -8,6 +8,6 @@ To download the **HIEV Canada** mobile app, scan the following QR code using you
 
 Alternatively, follow these steps to download and install the app.
 
-1. Open the **Google Play Store** on your Android device.
-2. Tap the **Search** bar and type **HIEV Canada**.
-3. Select the app from the search results and tap **Install**.
+1. Open the **Google Play Store** on your Android device.
+2. Tap the **Search** bar and type **HIEV Canada**.
+3. Select the app from the search results and tap **Install**.

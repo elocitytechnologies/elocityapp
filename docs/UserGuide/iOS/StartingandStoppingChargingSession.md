@@ -11,6 +11,7 @@ sidebar_position: 5
 3. Tap on the **START CHARGING** button.
 
 	![Overview](img/StartCharging.png)
+
 4. The Charge Session screen displays real-time charging updates. To stop charging, tap on the **STOP CHARGING** button.
 
 	![Overview](img/Charge9.png)

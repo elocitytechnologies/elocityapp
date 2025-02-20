@@ -320,3 +320,8 @@ html .hero__title {
     background-color: #05ce78 !important; /* Use !important if necessary to override inline or default styles */
     color: white;
 }
+
+article img {
+  max-width: 250px;
+  height: auto;
+}

@@ -12,4 +12,4 @@ You can explore the **HIEV Canada** mobile app as a guest user without signing u
 - **Check Pricing and Details** – See charging rates, station details, and supported connectors.
 - **View Public Charging Sessions** – Monitor real-time usage data for public stations.
 
-To access full functionality, including starting a charging session and managing your EV profile, [sign up for an account](docs/UserGuide/iOS/CreatingAccount.md) or [sign in](docs/UserGuide/iOS/SigningIn.md).
+To access full functionality, including starting a charging session and managing your EV profile, [sign up for an account](docs/UserGuide/Android/CreatingAccount.md) or [sign in](docs/UserGuide/Android/SigningIn.md).

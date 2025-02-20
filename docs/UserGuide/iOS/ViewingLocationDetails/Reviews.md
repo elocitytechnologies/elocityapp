@@ -7,6 +7,16 @@ The **Reviews** screen under **Location Details** allows you to read other users
 
 To navigate to the Reviews screen, follow these steps:
 
-| 1. Tap on the location card. | 2. Tap on the details card. |   3. Tap on Reviews.   |
-| :--------------------------: | :-------------------------: | :--------------------: |
-|    ![Overview](img/1.jpg)    |   ![Overview](img/2.jpg)    | ![Overview](img/5.jpg) |
+1. Tap on the location card.
+
+	![Overview](img/1.jpg)
+
+2. Tap on the details card.
+
+	![Overview](img/2.jpg)
+
+
+3. Tap on the **Reviews** button.
+
+	![Overview](img/5.jpg)
+
